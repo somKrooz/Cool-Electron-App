@@ -1,0 +1,48 @@
+.card{
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    background-color: 	#3e3e42;
+    border-radius: 20px;
+    box-shadow: #3e3e42;
+    text-align: center;
+  }
+  
+  
+  .card .Waifus {
+    border-radius: 10px;
+    height: 350px;
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+    aspect-ratio: .5;
+    object-fit: cover;
+  }
+  
+  .card .btn {
+
+    cursor: pointer;
+    outline: 0;
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+}
+
+.btn:hover {
+    color: #fff;
+}
+
+  .card .author {
+    font-weight: bold;
+    font-family: monospace;
+    color: #a4a4a4;
+  }
+  
