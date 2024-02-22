@@ -1,4 +1,4 @@
-<img src=".erb/img/COOl.png" width="50%" />
+<img src=".erb/img/Cool.png" width="50%" />
 
 <br>
 <h1>Waifu DashBoard</h1>
