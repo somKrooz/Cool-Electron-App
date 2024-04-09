@@ -8,7 +8,7 @@
   element or you can click on "new data" button to fetch new images for all 
   at once.
 </p>
-<img src=".erb/img/Screenshot.png" width="40%" />
+<img src=".erb/img/Screenshot.png" width="60%" />
 <br>
 
 ## License
